@@ -1,1 +1,1 @@
-# Ising_Phase_Detection
+# Quantum Phase Detection Using AI
